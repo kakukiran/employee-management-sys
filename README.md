@@ -1,4 +1,7 @@
 # Employee Management System
+<img width="887" alt="project empmgt1" src="https://github.com/user-attachments/assets/676034f6-e8b4-4188-92df-09d750398f89" />
+<img width="884" alt="project empmgt2" src="https://github.com/user-attachments/assets/838dcfbb-0ce9-4fd6-be03-5a2a12b93bdf" />
+<img width="848" alt="project empmgt3" src="https://github.com/user-attachments/assets/4d79158e-b9fd-4530-8544-e96baa8fe8d4" />
 
 ## Project Overview
 The **Employee Management System** is a full-stack web application designed to manage employee records. It features a **ReactJS** frontend, **Spring Boot** backend, and a **MySQL** database. The application supports CRUD operations and demonstrates modern web development frameworks and tools.
